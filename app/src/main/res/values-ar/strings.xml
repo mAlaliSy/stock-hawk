@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">أسعار الأسهم</string>
+
+    <string name="action_example">مثال على حدث</string>
+
+    <string name="action_settings">الإعدادات</string>
+    <string name="action_change_units">تغيير الوحدات</string>
+    <string name="symbol_search">بحث</string>
+    <string name="content_test">بحث عن سهم</string>
+
+    <string name="network_toast">اوه يا للأسف ! التطبيق يحتاج للإتصال بالإنترنت .</string>
+    <string name="invalid_input_toast">حصل خطأ ! يرجى التأكد من المدخلات .</string>
+
+    <string name="addContentDescription">إضافة سهم جديد</string>
+
+    <string name="noStocks">لا توجد أسهم !</string>
+
+
+    <string name="displayTime">عرض معلومات عن آخر :  </string>
+    <string name="month_s">شهر/أشهر</string>
+
+    <string name="pleaseWait">الرجاء الإنتظار ..</string>
+    <string name="alreadyExist">هذا السهم موجود مسبقا !</string>
+
+</resources>
